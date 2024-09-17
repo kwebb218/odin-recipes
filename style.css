@@ -1,0 +1,29 @@
+/* {
+    outline: 2px solid red;
+  }*/
+
+body {
+    background-color: black;
+}
+
+#title{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orange;
+}
+
+.recipes{
+    font-size: 25px;
+    color: black;
+    margin-left: 450px;
+    margin-top: 100px;
+    width: 300px;
+
+}
+
+.recipes,
+li{
+    background-color: green;
+
+}
